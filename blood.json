@@ -1,10 +1,10 @@
 {
-  "time": "2015-12-16T07:32:11+08:00",
+  "time": "2015-12-16T08:32:17+08:00",
   "台北捐血中心": {
     "name": "台北捐血中心",
     "StorageA": "full",
     "StorageB": "full",
-    "StorageO": "full",
+    "StorageO": "medium",
     "StorageAB": "full"
   },
   "新竹捐血中心": {
@@ -26,14 +26,14 @@
     "StorageA": "full",
     "StorageB": "full",
     "StorageO": "full",
-    "StorageAB": "medium"
+    "StorageAB": "full"
   },
   "高雄捐血中心": {
     "name": "高雄捐血中心",
     "StorageA": "full",
     "StorageB": "full",
-    "StorageO": "full",
-    "StorageAB": "full"
+    "StorageO": "medium",
+    "StorageAB": "medium"
   },
   "花蓮捐血中心": {
     "name": "花蓮捐血中心",
