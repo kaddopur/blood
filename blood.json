@@ -1,11 +1,11 @@
 {
-  "time": "2016-03-23T07:32:25+08:00",
+  "time": "2016-03-23T08:32:19+08:00",
   "台北捐血中心": {
     "name": "台北捐血中心",
     "StorageA": "medium",
-    "StorageB": "full",
+    "StorageB": "medium",
     "StorageO": "medium",
-    "StorageAB": "full"
+    "StorageAB": "medium"
   },
   "新竹捐血中心": {
     "name": "新竹捐血中心",
@@ -33,13 +33,13 @@
     "StorageA": "full",
     "StorageB": "full",
     "StorageO": "full",
-    "StorageAB": "full"
+    "StorageAB": "medium"
   },
   "花蓮捐血中心": {
     "name": "花蓮捐血中心",
-    "StorageA": "full",
-    "StorageB": "full",
+    "StorageA": "medium",
+    "StorageB": "medium",
     "StorageO": "full",
-    "StorageAB": "full"
+    "StorageAB": "medium"
   }
 }
