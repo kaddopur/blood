@@ -1,5 +1,5 @@
 {
-  "time": "2016-04-05T12:32:11+08:00",
+  "time": "2016-04-05T15:32:17+08:00",
   "台北捐血中心": {
     "name": "台北捐血中心",
     "StorageA": "medium",
@@ -16,17 +16,17 @@
   },
   "台中捐血中心": {
     "name": "台中捐血中心",
-    "StorageA": "empty",
-    "StorageB": "medium",
-    "StorageO": "empty",
-    "StorageAB": "empty"
+    "StorageA": "medium",
+    "StorageB": "full",
+    "StorageO": "medium",
+    "StorageAB": "medium"
   },
   "台南捐血中心": {
     "name": "台南捐血中心",
     "StorageA": "medium",
     "StorageB": "full",
-    "StorageO": "full",
-    "StorageAB": "full"
+    "StorageO": "medium",
+    "StorageAB": "medium"
   },
   "高雄捐血中心": {
     "name": "高雄捐血中心",
